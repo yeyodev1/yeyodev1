@@ -9,7 +9,7 @@ As a Frontend Developer with over two years of experience, I've honed my skills 
 * 🌍  I'm based in Guayaquil, Ecuador.
 * 🖥️  See my portfolio at [My personal page](http://yeyodev.netlify.app/)
 * ✉️  You can contact me at [yeyodev@icloud.com](mailto:yeyodev@icloud.com)
-* 🚀  I'm currently working on [Predix](http://predix.ec/)
+* 🚀  I'm currently working on [Scale ai](https://scale.com/) & [Bakano agency](https://bakano.ec/)
 * 🧠  I'm learning Backend: Express - Nodejs - Docker
 * ⚡  I'm currently working on AI Chatbots @https://bot-whatsapp.netlify.app/
 
