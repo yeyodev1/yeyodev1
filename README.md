@@ -11,7 +11,7 @@ As a Frontend Developer with over two years of experience, I've honed my skills 
 * ✉️  You can contact me at [yeyodev@icloud.com](mailto:yeyodev@icloud.com)
 * 🚀  I'm currently working on [Scale ai](https://scale.com/) & [Bakano agency](https://bakano.ec/)
 * 🧠  I'm learning Backend: Express - Nodejs - Docker
-* ⚡  I'm currently working on AI Chatbots @https://bot-whatsapp.netlify.app/
+* ⚡  I'm currently working on AI Chatbots @https://www.builderbot.app/en
 
 <a href="https://www.x.com/yeyodev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yeyodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
